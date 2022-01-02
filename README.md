@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebastianhoenig
 - 👀 I’m interested in sports, algorithms and websites
-- 🌱 I’m currently pursuing a degree in computer science and studying the Fullstack JS curriculum from the Odin Project
+- 🌱 I’m currently pursuing a degree in computer science
 - 📫 How to reach me hoenigsebastian@gmail.com
 
 <!---
