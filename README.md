@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebastianhoenig
-- 👀 I’m interested in sports, algorithms and websites
+- 👀 I’m interested in sports, web-design and machine learning
 - 🌱 I’m currently pursuing a degree in computer science
 - 📫 How to reach me hoenigsebastian@gmail.com
 
